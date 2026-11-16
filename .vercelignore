@@ -1,0 +1,6 @@
+node_modules
+.next
+.claude
+publiclogo.png.png
+HYPERKNOT_MASTER_SPEC.md
+.env*
